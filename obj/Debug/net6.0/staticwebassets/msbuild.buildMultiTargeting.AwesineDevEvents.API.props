@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AwesineDevEvents.API.props" />
+</Project>
